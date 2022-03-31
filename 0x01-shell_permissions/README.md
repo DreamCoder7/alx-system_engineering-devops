@@ -1,1 +1,1 @@
-Bash, Permissions
+Permissions, Bash
