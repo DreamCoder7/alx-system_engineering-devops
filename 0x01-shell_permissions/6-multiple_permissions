@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp hello
+chgrp 644 hello
